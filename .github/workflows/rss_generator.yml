@@ -50,6 +50,19 @@ jobs:
     - name: Download Microsoft Research Feed
       run: |
         curl -o rss/MicrosoftResearch.xml https://www.microsoft.com/en-us/research/feed/
+    
+    - name: Install html2rss
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ruby-full
+        sudo gem install html2rss
+        
+    - name: Test html2rss
+      run: |
+        mkdir -p rss
+        html2rss scrape "https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1131" > rss/usts_tongzhigonggao_auto.xml
+        echo "html2rss test completed"
+    
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN
