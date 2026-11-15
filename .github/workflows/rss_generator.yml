@@ -8,6 +8,7 @@ on:
       - '.github/workflows/rss_generator.yml'
       - 'rss_generator.py'
       - 'config.yaml'
+      - 'bilibili_rss.py'
   schedule:
     - cron: '0 0 * * *'  # 每天运行一次
   workflow_dispatch:  # 允许手动触发
@@ -36,6 +37,14 @@ jobs:
       run: |
         Xvfb :99 -ac &
         python rss_generator.py  # 运行你的Python脚本
+    - name: Run Bilibili RSS generator
+      continue-on-error: true
+      env:
+        BILI_SESSDATA: ${{ secrets.BILI_SESSDATA }}
+        BILI_JCT: ${{ secrets.BILI_JCT }}
+        BILI_BUVID3: ${{ secrets.BILI_BUVID3 }}
+      run: |
+        python bilibili_rss.py        
     - name: Download Microsoft Research Feed
       run: |
         curl -o rss/MicrosoftResearch.xml https://www.microsoft.com/en-us/research/feed/
