@@ -45,7 +45,7 @@ jobs:
         BILI_JCT: ${{ secrets.BILI_JCT }}
         BILI_BUVID3: ${{ secrets.BILI_BUVID3 }}
       run: |
-        python bilibili_rss.py    
+        python bilibili_rss.py 
         
     - name: Download Microsoft Research Feed
       run: |
