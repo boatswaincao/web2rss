@@ -1,3 +1,5 @@
+import json
+import random
 import os
 import html
 import json
@@ -47,6 +49,23 @@ def fetch_dynamics(cookie, max_pages=3):
         "platform": "web",
         "features": "itemOpusStyle,listOnlyfans,opusBigCover,onlyfansVote",
     }
+
+    x = max(round(random.gauss(1245, 5)), 0)
+    y = max(round(random.gauss(1285, 5)), 0)
+
+    dm_img_list = [{
+        "x": 3 * x + 2 * y,
+        "y": 4 * x - 5 * y,
+        "z": 0,
+        "timestamp": max(round(random.gauss(30, 5)), 0),
+        "type": 0,
+    }]
+
+    params["dm_img_list"] = json.dumps(
+        dm_img_list, separators=(",", ":")
+    )
+    params["dm_img_str"] = "bm8gd2ViZ2"
+    params["dm_cover_img_str"] = "bm8gd2ViZ2"
 
     session = requests.Session()
     session.headers.update(headers)
