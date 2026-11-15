@@ -57,11 +57,25 @@ jobs:
         sudo apt-get install -y ruby-full
         sudo gem install html2rss
         
-    - name: Test html2rss
+
+    - name: Generate RSS from URL list
       run: |
         mkdir -p rss
-        html2rss scrape "https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1131" > rss/usts_tongzhigonggao_auto.xml
-        echo "html2rss test completed"
+        while IFS= read -r url || [ -n "$url" ]; do
+          [ -z "$url" ] && continue
+          [[ "$url" =~ ^# ]] && continue
+
+          slug=$(echo "$url" | sed -E 's#https?://##; s#[/?=&]#_#g; s#[^A-Za-z0-9._-]#_#g' | cut -c1-80)
+          output="rss/auto_${slug}.xml"
+
+          echo "Generating RSS for: $url"
+          if html2rss scrape "$url" > "$output"; then
+            echo "Generated: $output"
+          else
+            echo "Failed: $url"
+            rm -f "$output"
+          fi
+        done < auto_sites.txt
     
     - name: Commit and push changes
       env:
