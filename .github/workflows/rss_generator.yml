@@ -9,6 +9,7 @@ on:
       - 'rss_generator.py'
       - 'config.yaml'
       - 'bilibili_rss.py'
+      - 'auto_sites.txt'
   schedule:
     - cron: '*/30 * * * *' # 每天运行一次
   workflow_dispatch:  # 允许手动触发
