@@ -58,9 +58,17 @@ jobs:
         sudo gem install html2rss
         
 
+   
     - name: Generate RSS from URL list
       run: |
         mkdir -p rss
+
+        echo "# RSS 订阅源" > rss_sources.md
+        echo "" >> rss_sources.md
+        echo "以下为自动生成的 RSS 订阅地址：" >> rss_sources.md
+        echo "" >> rss_sources.md
+        echo '```text' >> rss_sources.md
+
         while IFS= read -r url || [ -n "$url" ]; do
           [ -z "$url" ] && continue
           [[ "$url" =~ ^# ]] && continue
@@ -71,11 +79,15 @@ jobs:
           echo "Generating RSS for: $url"
           if html2rss scrape "$url" </dev/null > "$output"; then
             echo "Generated: $output"
+            echo "https://boatswaincao.github.io/web2rss/$output" >> rss_sources.md
           else
             echo "Failed: $url"
             rm -f "$output"
           fi
         done < auto_sites.txt
+
+        echo '```' >> rss_sources.md
+
     
     - name: Commit and push changes
       env:
