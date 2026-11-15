@@ -37,6 +37,7 @@ jobs:
       run: |
         Xvfb :99 -ac &
         python rss_generator.py  # 运行你的Python脚本
+        
     - name: Run Bilibili RSS generator
       continue-on-error: true
       env:
@@ -44,7 +45,8 @@ jobs:
         BILI_JCT: ${{ secrets.BILI_JCT }}
         BILI_BUVID3: ${{ secrets.BILI_BUVID3 }}
       run: |
-        python bilibili_rss.py        
+        python bilibili_rss.py    
+        
     - name: Download Microsoft Research Feed
       run: |
         curl -o rss/MicrosoftResearch.xml https://www.microsoft.com/en-us/research/feed/
