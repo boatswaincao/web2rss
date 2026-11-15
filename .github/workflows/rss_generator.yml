@@ -69,7 +69,7 @@ jobs:
           output="rss/auto_${slug}.xml"
 
           echo "Generating RSS for: $url"
-          if html2rss scrape "$url" > "$output"; then
+          if html2rss scrape "$url" </dev/null > "$output"; then
             echo "Generated: $output"
           else
             echo "Failed: $url"
