@@ -1,8 +1,8 @@
-2026-11-15 19:05:49 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/index/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-15 19:05:51 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kjcyc.usts.edu.cn","captured_count":59,"drop_tallies":{"duplicate_url":21,"different_domain":7,"low_word_count":31},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
-2026-11-15 19:05:54 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx7JEKUaboIvixRI1h0ZI-8B (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-15 19:05:57 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx5lHMhNH7RX-p12vEvfMQOQ (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-15 19:06:00 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx4xcxNoqr5tllY0y6soK4VP (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 23:25:09 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/index/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 23:25:10 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kjcyc.usts.edu.cn","captured_count":59,"drop_tallies":{"duplicate_url":21,"different_domain":7,"low_word_count":31},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-15 23:25:13 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx7JEKUaboIvixRI1h0ZI-8B (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 23:25:16 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx5lHMhNH7RX-p12vEvfMQOQ (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 23:25:19 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx4xcxNoqr5tllY0y6soK4VP (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -14,7 +14,7 @@
     <link>https://kjcyc.usts.edu.cn/index/tzgg.htm</link>
     <description>Latest items from https://kjcyc.usts.edu.cn/index/tzgg.htm</description>
     <language>zh</language>
-    <pubDate>Sun, 15 Nov 2026 19:06:00 +0000</pubDate>
+    <pubDate>Sun, 15 Nov 2026 23:25:19 +0000</pubDate>
     <item>
       <title>警钟长鸣 | 国家自然科学基金委员会学术不端案件通报（2026年第2批）</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6106.htm</link>
@@ -95,6 +95,6 @@
     </item>
     <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (13))</generator>
     <ttl>10</ttl>
-    <dc:date>2026-11-15T19:06:00.687991+00:00</dc:date>
+    <dc:date>2026-11-15T23:25:19.022127+00:00</dc:date>
   </channel>
 </rss>
