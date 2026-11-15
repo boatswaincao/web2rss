@@ -1,0 +1,167 @@
+2026-11-15 14:05:42 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"terrano.ucsd.edu","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched http://terrano.ucsd.edu/jorge/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Jorge Cortes&#39; webpage</title>
+    <link>http://terrano.ucsd.edu/jorge/publications/index.html</link>
+    <description>Latest items from http://terrano.ucsd.edu/jorge/publications/index.html</description>
+    <pubDate>Sat, 10 Oct 2026 15:53:57 -0000</pubDate>
+    <item>
+      <title>Construction of universal safe stabilizing formulas with weighted centroid methodology</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp232.html</link>
+      <description>P. Ong, M. H. Cohen, A. D. Ames, J. Cortés IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">pqjozg</guid>
+    </item>
+    <item>
+      <title>Nonparametric transition kernel estimation for Markov chains from single trajectory data</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp231.html</link>
+      <description>B. Hwang, J. Cortés, S. Martínez IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">1qtq6zl</guid>
+    </item>
+    <item>
+      <title>A unified perspective on conformal prediction and Wasserstein distributionally robust optimization for uncertainty quantification</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp230.html</link>
+      <description>K. Long, Y. Zhao, P. Mestres, L. Lindemann, N. Atanasov, J . Cortés Annual Reviews in Control, submitted</description>
+      <guid isPermaLink="false">11qt57u</guid>
+    </item>
+    <item>
+      <title>Joint individual and cooperative Q-learning for multi-agent systems</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp229.html</link>
+      <description>S. Addams, J. Cortés Robotics and Autonomous Systems, submitted</description>
+      <guid isPermaLink="false">1s0yv04</guid>
+    </item>
+    <item>
+      <title>Competition, stability, and functionality in excitatory-inhibitory neural circuits</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp228.html</link>
+      <description>S. Betteti, W. Retnaraj, A. Davydov, J. Cortés, F. Bullo Proceedings of the National Academy of Sciences, submitted</description>
+      <guid isPermaLink="false">130u98f</guid>
+    </item>
+    <item>
+      <title>Subspace prunning via principal vectors for accurate Koopman-based approximations</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp227.html</link>
+      <description>D. Shah, J. Cortés IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">19tol79</guid>
+    </item>
+    <item>
+      <title>Reachability-based design optimization for aircraft maneuverability</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp226.html</link>
+      <description>S. Nguyen, N. Orndorff, J. Cortés, B. Kramer AIAA Journal, submitted</description>
+      <guid isPermaLink="false">1li9qn2</guid>
+    </item>
+    <item>
+      <title>On the existence of Koopman linear embeddings for controlled nonlinear systems</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp225.html</link>
+      <description>X. Shang, M. Haseli, J. Cortés, Y. Zheng IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">vlzcub</guid>
+    </item>
+    <item>
+      <title>Safe feedback optimization through control barrier functions</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp224.html</link>
+      <description>G. Delimpaltadakis, P. Mestres, J. Cortés, W. P. M. H. Heemels IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">7n0nt4</guid>
+    </item>
+    <item>
+      <title>Visibility in polygonal environments with holes: finding best spots for hiding and surveillance</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp223.html</link>
+      <description>N. Banzal, J. Cortés, S. Martínez SIAM Journal on Control and Optimization, submitted</description>
+      <guid isPermaLink="false">1nv7prs</guid>
+    </item>
+    <item>
+      <title>Distributed time-varying coverage control via singular perturbations</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp222.html</link>
+      <description>B. Bao, J. Cortés, S. Martínez IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">1gmdawj</guid>
+    </item>
+    <item>
+      <title>Real-time distributed voltage regulation of the UCSD microgrid using the DERConnect testbed</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp221.html</link>
+      <description>S. A. Sadat, B. Hwang, K. Murakami, J. Kleissl, J. Cortés, S. Martínez IEEE Transactions on Smart Grid, submitted</description>
+      <guid isPermaLink="false">ubzqm</guid>
+    </item>
+    <item>
+      <title>Two roads to Koopman operator theory for control: infinite input sequences and operator families</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp220.html</link>
+      <description>M. Haseli, I. Mezić, J. Cortés IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">t91c6d</guid>
+    </item>
+    <item>
+      <title>Universal formulas for safe control and their neural network approximations</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp219.html</link>
+      <description>P. Mestres, J. Cortés, E. D. Sontag Systems &amp;amp; Control Letters 215 (2026) 106480</description>
+      <guid isPermaLink="false">8ctp7o</guid>
+    </item>
+    <item>
+      <title>Constrained variational inference via safe particle flow</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp218.html</link>
+      <description>Y. Yi, J. Cortés, N. Atanasov IEEE Control Systems Letters 9 (2025), 2579-2584</description>
+      <guid isPermaLink="false">wbe7cf</guid>
+    </item>
+    <item>
+      <title>Off-policy reinforcement learning with anytime safety guarantees via robust safe gradient flow</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp217.html</link>
+      <description>P. Mestres, A. Marzabal, J. Cortés IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">q2rmbp</guid>
+    </item>
+    <item>
+      <title>Learning to pursue AC optimal power flow solutions with feasibility guarantees</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp216.html</link>
+      <description>D. Ajeyemi, Y. Chen, A. Colot, J. Cortés, E. Dall&#39;Anese IEEE Open Journal of Control Systems 5 (2026), 211-226</description>
+      <guid isPermaLink="false">ffkolq</guid>
+    </item>
+    <item>
+      <title>Data-driven stabilization of unknown linear-threshold network dynamics</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp214.html</link>
+      <description>X. Wang, D. Duong-Tran, J. Cortés IEEE Transactions on Automatic Control, submitted</description>
+      <guid isPermaLink="false">1r2qejc</guid>
+    </item>
+    <item>
+      <title>Stability constrained voltage control in distribution grids with arbitrary communication infrastructure</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp213.html</link>
+      <description>Z. Yuan, J. Feng, Y. Shi, J. Cortés IEEE Transactions on Smart Grid 17 (1) (2026), 351-362</description>
+      <guid isPermaLink="false">d2pk88</guid>
+    </item>
+    <item>
+      <title>Multi-agent Q-learning via best choice dynamics</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp211.html</link>
+      <description>S. Addams, J. Cortés IEEE Access 13 (2025), 172736-172747</description>
+      <guid isPermaLink="false">1xvhu7y</guid>
+    </item>
+    <item>
+      <title>Controller design for bilinear neural feedback loops</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp210.html</link>
+      <description>D. Shah, J. Cortés IEEE Control Systems Letters 9 (2025), 1712-1717</description>
+      <guid isPermaLink="false">14f8m7p</guid>
+    </item>
+    <item>
+      <title>Safe control of second-order systems with linear positional constraints</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp209.html</link>
+      <description>M. Alyaseen, N. Atanasov, J. Cortés IEEE Control Systems Letters 9 (2025), 1279-1284</description>
+      <guid isPermaLink="false">1yvuobv</guid>
+    </item>
+    <item>
+      <title>Control barrier function-based safety filters: characterization of undesired equilibria, unbounded trajectories, and limit cycles</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp208.html</link>
+      <description>P. Mestres, Y. Chen, E. Dall&#39;Anese, J. Cortés Journal of Nonlinear Science 36 (2026), 41</description>
+      <guid isPermaLink="false">15dfi74</guid>
+    </item>
+    <item>
+      <title>Safety-critical control of discontinuous systems with nonsmooth safe sets</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp207.html</link>
+      <description>M. Alyaseen, N. Atanasov, J. Cortés Automatica 185 (2026), 112780</description>
+      <guid isPermaLink="false">1gc3m2y</guid>
+    </item>
+    <item>
+      <title>Information structures for distributed k-dimensional agreement</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp206.html</link>
+      <description>G. Bianchin, M. Vaquero, J. Cortés, E. Dall&#39;Anese Automatica 185 (2026), 112753</description>
+      <guid isPermaLink="false">1nncla9</guid>
+    </item>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <ttl>360</ttl>
+    <dc:date>2026-10-10T15:53:57Z</dc:date>
+  </channel>
+</rss>

@@ -1,0 +1,143 @@
+2026-11-15 14:06:04 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 14:06:09 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>江苏省人力资源和社会保障厅 资讯中心</title>
+    <link>https://jshrss.jiangsu.gov.cn/col/col79433/index.html</link>
+    <description>Latest items from https://jshrss.jiangsu.gov.cn/col/col79433/index.html</description>
+    <pubDate>Fri, 13 Nov 2026 10:42:50 -0000</pubDate>
+    <item>
+      <title>全省人社系统人工智能场景路演成功举办</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/13/art_78497_11859422.html</link>
+      <guid isPermaLink="false">1o56kml</guid>
+    </item>
+    <item>
+      <title>全省人社系统部署开展消防宣传月“十个一”行动</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/9/art_78497_11856088.html</link>
+      <guid isPermaLink="false">x412bo</guid>
+    </item>
+    <item>
+      <title>校企携手聚英才 协同赋能促发展 ——苏荟英才·名...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/6/art_78497_11855676.html</link>
+      <guid isPermaLink="false">1etia1p</guid>
+    </item>
+    <item>
+      <title>省人社厅举办优秀年轻干部培训班 深入学习贯彻党的...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/4/art_78497_11854595.html</link>
+      <guid isPermaLink="false">ewpmpa</guid>
+    </item>
+    <item>
+      <title>基金安全 人人守护 盐城市人社局集中开展社保基金...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/6/art_78498_11855645.html</link>
+      <guid isPermaLink="false">61hup1</guid>
+    </item>
+    <item>
+      <title>无锡打造社保卡智慧校园应用新场景</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/29/art_78498_11851037.html</link>
+      <guid isPermaLink="false">1p3bot5</guid>
+    </item>
+    <item>
+      <title>南通：筑强人才生态，释放创新活力，培植青年人才安...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/29/art_78498_11851033.html</link>
+      <guid isPermaLink="false">1d8ppa7</guid>
+    </item>
+    <item>
+      <title>他带着“徐州制造”跨境出海</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/29/art_78498_11851030.html</link>
+      <guid isPermaLink="false">vf6m0l</guid>
+    </item>
+    <item>
+      <title>课堂“按需定制”！镇江市“技能夜校”走进香江科技...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/29/art_78498_11851029.html</link>
+      <guid isPermaLink="false">w9uprb</guid>
+    </item>
+    <item>
+      <title>全省2026年12月份“人才夜市”“技能夜校”“苏创助... 2026-11-02</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/2/art_78504_11853131.html</link>
+      <guid isPermaLink="false">pt40qk</guid>
+    </item>
+    <item>
+      <title>全省2026年11月份“人才夜市”“技能夜校”“苏创助... 2026-10-08</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/8/art_78504_11838928.html</link>
+      <guid isPermaLink="false">1vbi2l7</guid>
+    </item>
+    <item>
+      <title>关于“江苏省优秀共青团员、优秀共青团干部、优秀少先队辅... 2026-04-07</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/4/7/art_78505_11754506.html</link>
+      <guid isPermaLink="false">1sg7t29</guid>
+    </item>
+    <item>
+      <title>拉萨市2026年定向招募江苏省高校毕业生“三支一扶”计... 2026-11-13</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/13/art_78504_11859893.html</link>
+      <guid isPermaLink="false">udp0kz</guid>
+    </item>
+    <item>
+      <title>关于江苏省全国妇联系统先进集体和先进个人正式推荐对象的... 2026-11-13</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/13/art_78504_11859808.html</link>
+      <guid isPermaLink="false">1kso0yz</guid>
+    </item>
+    <item>
+      <title>关于抵扣多享受社会保险待遇决定书的送达公告 2026-10-20</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/20/art_78504_11844451.html</link>
+      <guid isPermaLink="false">1jjjrp</guid>
+    </item>
+    <item>
+      <title>关于退回多享受社会保险待遇告知书的送达公告 2026-10-20</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/20/art_78504_11844450.html</link>
+      <guid isPermaLink="false">1vj41bg</guid>
+    </item>
+    <item>
+      <title>第九批江苏省专业技术人才继续教育基地的公示 2026-10-19</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/19/art_78504_11843895.html</link>
+      <guid isPermaLink="false">731asa</guid>
+    </item>
+    <item>
+      <title>关于第二批江苏省劳动人事争议仲裁专家库拟入库成员的公示 2026-10-12</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/12/art_78504_11840726.html</link>
+      <guid isPermaLink="false">r2ip1p</guid>
+    </item>
+    <item>
+      <title>关于全国邮政行业先进集体和先进个人正式推荐对象的公示 2026-10-09</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/9/art_78504_11839471.html</link>
+      <guid isPermaLink="false">ikgu3r</guid>
+    </item>
+    <item>
+      <title>江苏省人社厅公布2026年三季度重大劳动保障违法行为和... 2026-10-09</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/9/art_78504_11839288.html</link>
+      <guid isPermaLink="false">1mcouhf</guid>
+    </item>
+    <item>
+      <title>关于全国党史和文献部门先进集体和先进个人推荐对象的公示 2026-11-06</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/6/art_78505_11855590.html</link>
+      <guid isPermaLink="false">1g7qg09</guid>
+    </item>
+    <item>
+      <title>江苏省全国药品监管系统先进集体和先进个人拟正式推荐对象... 2026-11-02</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/2/art_78505_11853515.html</link>
+      <guid isPermaLink="false">a1awmc</guid>
+    </item>
+    <item>
+      <title>第27届江苏新闻奖拟表彰对象公示 2026-10-19</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/19/art_78505_11843924.html</link>
+      <guid isPermaLink="false">1ujnsgg</guid>
+    </item>
+    <item>
+      <title>全省先进医疗卫生工作者拟表彰对象公示 2026-06-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/6/25/art_78505_11794797.html</link>
+      <guid isPermaLink="false">9y6y49</guid>
+    </item>
+    <item>
+      <title>关于江苏省参加第15届全运会奖励集体和个人的公示 2026-04-08</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/4/8/art_78505_11755147.html</link>
+      <guid isPermaLink="false">f8vf4i</guid>
+    </item>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <ttl>120</ttl>
+    <dc:date>2026-11-13T10:42:50Z</dc:date>
+  </channel>
+</rss>

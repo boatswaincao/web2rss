@@ -1,0 +1,48 @@
+2026-11-15 14:05:38 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-15 14:05:38 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-15 14:05:38 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-15 14:05:38 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-15 14:05:39 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-15 14:05:40 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Blog — Engineering Media</title>
+    <link>https://engineeringmedia.com/blog</link>
+    <description>Latest items from https://engineeringmedia.com/blog</description>
+    <language>en-US</language>
+    <pubDate>Sun, 15 Nov 2026 14:05:40 +0000</pubDate>
+    <image>
+      <url>http://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5e6c025c6f379e1858688b43/1584136799463/EM_Badge_Black.png?format=1500w</url>
+      <title>Blog — Engineering Media</title>
+      <link>https://engineeringmedia.com/blog</link>
+    </image>
+    <item>
+      <title>What a first control course should cover</title>
+      <link>https://engineeringmedia.com/controlblog/2026/4/22/what-a-first-control-course-should-cover</link>
+      <guid isPermaLink="false">j07u5a</guid>
+    </item>
+    <item>
+      <title>#2: The Kalman Filter</title>
+      <link>https://engineeringmedia.com/controlblog/the-kalman-filter</link>
+      <guid isPermaLink="false">1a1qv51</guid>
+    </item>
+    <item>
+      <title>#1: What is control engineering?</title>
+      <link>https://engineeringmedia.com/controlblog/what-is-control-engineering</link>
+      <guid isPermaLink="false">vuodh2</guid>
+    </item>
+    <item>
+      <title>#0: A blog, really?</title>
+      <link>https://engineeringmedia.com/controlblog/a-blog-really</link>
+      <guid isPermaLink="false">7cxp12</guid>
+    </item>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (4))</generator>
+    <ttl>360</ttl>
+    <dc:date>2026-11-15T14:05:40.690714+00:00</dc:date>
+  </channel>
+</rss>
