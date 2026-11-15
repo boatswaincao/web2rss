@@ -1,0 +1,102 @@
+2026-11-15 07:53:01 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"notify.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://notify.usts.edu.cn/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>学术动态-苏州科技大学</title>
+    <link>https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</link>
+    <description>Latest items from https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</description>
+    <language>zh</language>
+    <pubDate>Sun, 15 Nov 2026 07:53:09 +0000</pubDate>
+    <item>
+      <title>省·政·协 戏曲走近大学生: 昆剧《竹林三昧》观演创作谈</title>
+      <link>https://notify.usts.edu.cn/info/1131/17170.htm</link>
+      <description>【敬文书院】 2026-11-18</description>
+      <guid isPermaLink="false">zj0bek</guid>
+    </item>
+    <item>
+      <title>Making Mobile Maps in a Moment of Emergent AI</title>
+      <link>https://notify.usts.edu.cn/info/1131/17147.htm</link>
+      <description>【地理科学与测绘工程学院】 2026-11-9</description>
+      <guid isPermaLink="false">617bct</guid>
+    </item>
+    <item>
+      <title>数苑讲坛: 第三十九：On some nonlinear variational problems related to the critical Hartree equation</title>
+      <link>https://notify.usts.edu.cn/info/1131/17134.htm</link>
+      <description>【数学科学学院】 2026-11-04</description>
+      <guid isPermaLink="false">1h68p1r</guid>
+    </item>
+    <item>
+      <title>希文论坛: 第六十讲 青年如何讲述城市：短视频微叙事中的苏州</title>
+      <link>https://notify.usts.edu.cn/info/1131/17171.htm</link>
+      <description>【文学院】 2026-11-13</description>
+      <guid isPermaLink="false">1gejx1t</guid>
+    </item>
+    <item>
+      <title>政纬校友论坛: 第三讲 新加坡：中西交汇点的基础和高等教育</title>
+      <link>https://notify.usts.edu.cn/info/1131/17164.htm</link>
+      <description>【文学院】 2026-11-10</description>
+      <guid isPermaLink="false">1ortytl</guid>
+    </item>
+    <item>
+      <title>至恒土木讲坛第36期：为破坏而设计——论抗震结构显式破坏模式设计，龙门石窟擂鼓台灰岩酸蚀特性宏微细观实验研究</title>
+      <link>https://notify.usts.edu.cn/info/1131/17156.htm</link>
+      <description>【土木工程学院】 2026-11-7</description>
+      <guid isPermaLink="false">zufnrl</guid>
+    </item>
+    <item>
+      <title>希文论坛: 第五十九讲 《诗经》中的美食</title>
+      <link>https://notify.usts.edu.cn/info/1131/17153.htm</link>
+      <description>【文学院】 2026-11-09</description>
+      <guid isPermaLink="false">lu3pjc</guid>
+    </item>
+    <item>
+      <title>数苑讲坛: 第四十讲：图论系列报告</title>
+      <link>https://notify.usts.edu.cn/info/1131/17174.htm</link>
+      <description>【数学科学学院】 2026-11-13</description>
+      <guid isPermaLink="false">w0bn60</guid>
+    </item>
+    <item>
+      <title>希文论坛: 第五十八讲 近现代江南经学与语言学的传承与发展</title>
+      <link>https://notify.usts.edu.cn/info/1131/17152.htm</link>
+      <description>【文学院】 2026-11-06</description>
+      <guid isPermaLink="false">vqqkyt</guid>
+    </item>
+    <item>
+      <title>希文论坛: 第五十七讲 数智时代语言研究的选题与论证</title>
+      <link>https://notify.usts.edu.cn/info/1131/17150.htm</link>
+      <description>【文学院】 2026-11-06</description>
+      <guid isPermaLink="false">39uupr</guid>
+    </item>
+    <item>
+      <title>Vividness in Cartography</title>
+      <link>https://notify.usts.edu.cn/info/1131/17146.htm</link>
+      <description>【地理科学与测绘工程学院】 2026-11-9</description>
+      <guid isPermaLink="false">bhqbo0</guid>
+    </item>
+    <item>
+      <title>知化润生论坛: 癌细胞表面负电荷特性的发现与应用</title>
+      <link>https://notify.usts.edu.cn/info/1131/17168.htm</link>
+      <description>【化学与生命科学学院】 2026-11-13</description>
+      <guid isPermaLink="false">5zclxw</guid>
+    </item>
+    <item>
+      <title>学术讲座: 语言学方向国家社科选题辅导</title>
+      <link>https://notify.usts.edu.cn/info/1131/17135.htm</link>
+      <description>【外国语学院】 2026-11-04</description>
+      <guid isPermaLink="false">10h4wgy</guid>
+    </item>
+    <item>
+      <title>工业磷系阻垢剂的环境效应与污染控制技术研究</title>
+      <link>https://notify.usts.edu.cn/info/1131/17132.htm</link>
+      <description>【环境科学与工程学院】 2026-10-30</description>
+      <guid isPermaLink="false">et40m9</guid>
+    </item>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (14))</generator>
+    <ttl>360</ttl>
+    <dc:date>2026-11-15T07:53:09.381804+00:00</dc:date>
+  </channel>
+</rss>
