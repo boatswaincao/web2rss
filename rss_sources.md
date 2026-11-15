@@ -9,6 +9,6 @@ https://boatswaincao.github.io/web2rss/rss/auto_rwskc.usts.edu.cn_index_tzgg.htm
 https://boatswaincao.github.io/web2rss/rss/auto_engineeringmedia.com_videos.xml
 https://boatswaincao.github.io/web2rss/rss/auto_terrano.ucsd.edu_jorge_.xml
 https://boatswaincao.github.io/web2rss/rss/auto_www.mathworks.com_videos_tech-talks_controls.html.xml
-https://boatswaincao.github.io/web2rss/rss/auto_www.mathworks.com_videos_series_control-systems-in-practice.html.xml
 https://boatswaincao.github.io/web2rss/rss/auto_jshrss.jiangsu.gov.cn_col_col78506_index.html.xml
+https://boatswaincao.github.io/web2rss/rss/auto_kjcyc.usts.edu.cn_index_tzgg.htm.xml
 ```
