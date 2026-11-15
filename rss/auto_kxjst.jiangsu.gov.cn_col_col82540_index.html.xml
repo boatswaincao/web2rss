@@ -1,0 +1,197 @@
+2026-11-15 08:37:03 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kxjst.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kxjst.jiangsu.gov.cn/col/col82540/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-15 08:37:04 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-15 08:37:05 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-15 08:37:06 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-15 08:37:07 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>江苏省科技厅 通知公告</title>
+    <link>https://kxjst.jiangsu.gov.cn/col/col82540/index.html</link>
+    <description>Latest items from https://kxjst.jiangsu.gov.cn/col/col82540/index.html</description>
+    <language>en</language>
+    <pubDate>Thu, 12 Nov 2026 08:36:44 -0000</pubDate>
+    <item>
+      <title>关于转发国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批联合研发项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/11/9/art_82540_11856661.html</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">12dfdab</guid>
+      <dc:date>2026-11-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“政府间国际科技创新合作”重点专项2027年度第一批人员交流计划项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/11/9/art_82540_11856657.html</link>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">11jb2ew</guid>
+      <dc:date>2026-11-09T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于推荐“AI科学家”智能实验室工作的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/11/5/art_82540_11854921.html</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8dnvba</guid>
+      <dc:date>2026-11-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家网络空间安全国家科技重大专项第四批项目（公开类）申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/10/27/art_82540_11849553.html</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1gqz3zm</guid>
+      <dc:date>2026-10-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于做好2026年度省前沿技术研发计划（现代农业、社会发展、卫生健康）和省碳达峰碳中和科技创新专项资金等项目中期检查及年度执行情况填报工作的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/10/23/art_82540_11847168.html</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">y65roe</guid>
+      <dc:date>2026-10-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>转发科技部国际合作司关于征集2026年度“中韩青年科学家交流计划”中国青年科学家赴韩工作交流项目的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/10/16/art_82540_11843018.html</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1x7sz6e</guid>
+      <dc:date>2026-10-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“国家量子科技关键材料器件设备研发”重点专项2026年度（第一批）项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/10/14/art_82540_11841723.html</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">11sfvnc</guid>
+      <dc:date>2026-10-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅关于2026年江苏省实验动物行政许可事项（第四批）的公告</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/10/10/art_82540_11840322.html</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1xa0o38</guid>
+      <dc:date>2026-10-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“战略性科技创新合作”重点专项2026年度联合研发与示范项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/9/16/art_82540_11830780.html</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1xdl0xt</guid>
+      <dc:date>2026-09-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省科技厅关于开展中国长三角（江苏）—新加坡产业创新合作计划第五轮合作项目联合征集的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/8/26/art_82540_11820873.html</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">16x9ymg</guid>
+      <dc:date>2026-08-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计“城镇可持续发展关键技术与装备”重点专项2026年度项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/8/14/art_82540_11816519.html</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4xkvyc</guid>
+      <dc:date>2026-08-14T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“高端科研仪器研制”重点专项2026年度（第一批）项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/8/13/art_82540_11815748.html</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c11kxi</guid>
+      <dc:date>2026-08-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发新一代人工智能国家科技重大专项2026年度“以赛代评”公开项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/8/13/art_82540_11815742.html</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">19t484w</guid>
+      <dc:date>2026-08-13T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅关于2025年度实验动物许可证年检结果（第二批）的公告</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/8/5/art_82540_11814825.html</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">10v1skl</guid>
+      <dc:date>2026-08-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发《国家自然科学基金委员会关于发布国家重点研发计划“发育编程及其代谢调节”“合成生物学”重点专项2026年度项目申报指南的通知》的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/7/29/art_82540_11809956.html</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">pnyghk</guid>
+      <dc:date>2026-07-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于开展江苏省“十五五”期间第一批享受科技创新进口税收优惠政策的科研机构名单核定工作的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/7/10/art_82540_11802186.html</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1hn88ur</guid>
+      <dc:date>2026-07-10T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于组织开展2026年“创新积分制”企业信息填报工作的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/6/17/art_82540_11790895.html</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1td5y1y</guid>
+      <dc:date>2026-06-17T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于发布2026年度省前沿技术研发计划（现代农业）“揭榜挂帅”项目榜单（小龙虾生物育种技术研发和突破性品种培育）的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/6/11/art_82540_11784166.html</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">15ov65a</guid>
+      <dc:date>2026-06-11T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅关于印发《江苏省科学技术奖励办法实施细则》的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/6/8/art_82540_11782156.html</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">12q6qey</guid>
+      <dc:date>2026-06-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅关于印发《江苏科技型企业孵化器管理办法》的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/6/3/art_82540_11779684.html</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1pxc048</guid>
+      <dc:date>2026-06-03T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅关于2026年江苏省实验动物行政许可事项（第三批）的公告</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/7/22/art_82540_11807166.html</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">a5bfxo</guid>
+      <dc:date>2026-07-22T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省科技厅关于举办第十四届“创业江苏”科技创业大赛暨第十五届中国创新创业大赛江苏赛的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/6/1/art_82540_11779012.html</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1me1nhp</guid>
+      <dc:date>2026-06-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏省科学技术厅 中国人民银行江苏省分行等八部门关于印发《加快推进科技金融深度融合有力支撑打造具有全球影响力的产业科技创新中心的若干政策措施》的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/5/29/art_82540_11778124.html</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vkqj3o</guid>
+      <dc:date>2026-05-29T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“政府间国际科技创新合作”重点专项2026年度第二批人员交流计划项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/5/27/art_82540_11776913.html</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">gbb6id</guid>
+      <dc:date>2026-05-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于转发国家重点研发计划“政府间国际科技创新合作”重点专项2026年度第二批联合研发项目申报指南的通知</title>
+      <link>https://kxjst.jiangsu.gov.cn/art/2026/5/27/art_82540_11776907.html</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ivt0da</guid>
+      <dc:date>2026-05-27T00:00:00+00:00</dc:date>
+    </item>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <ttl>360</ttl>
+    <dc:date>2026-11-12T08:36:44Z</dc:date>
+  </channel>
+</rss>
