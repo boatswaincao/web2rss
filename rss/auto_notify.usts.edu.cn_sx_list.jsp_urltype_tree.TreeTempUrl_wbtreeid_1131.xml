@@ -1,4 +1,4 @@
-2026-11-15 23:24:10 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"notify.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://notify.usts.edu.cn/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-16 02:59:09 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"notify.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://notify.usts.edu.cn/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,7 +10,7 @@
     <link>https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</link>
     <description>Latest items from https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</description>
     <language>zh</language>
-    <pubDate>Sun, 15 Nov 2026 23:24:15 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 02:59:15 +0000</pubDate>
     <item>
       <title>省·政·协 戏曲走近大学生: 昆剧《竹林三昧》观演创作谈</title>
       <link>https://notify.usts.edu.cn/info/1131/17170.htm</link>
@@ -54,6 +54,12 @@
       <guid isPermaLink="false">lu3pjc</guid>
     </item>
     <item>
+      <title>希文论坛: 第六十一讲 AI影视创作全流程解析</title>
+      <link>https://notify.usts.edu.cn/info/1131/17175.htm</link>
+      <description>【文学院】 2026-11-18</description>
+      <guid isPermaLink="false">m2gj39</guid>
+    </item>
+    <item>
       <title>数苑讲坛: 第四十讲：图论系列报告</title>
       <link>https://notify.usts.edu.cn/info/1131/17174.htm</link>
       <description>【数学科学学院】 2026-11-13</description>
@@ -89,14 +95,8 @@
       <description>【外国语学院】 2026-11-04</description>
       <guid isPermaLink="false">10h4wgy</guid>
     </item>
-    <item>
-      <title>工业磷系阻垢剂的环境效应与污染控制技术研究</title>
-      <link>https://notify.usts.edu.cn/info/1131/17132.htm</link>
-      <description>【环境科学与工程学院】 2026-10-30</description>
-      <guid isPermaLink="false">et40m9</guid>
-    </item>
     <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (14))</generator>
     <ttl>360</ttl>
-    <dc:date>2026-11-15T23:24:15.298966+00:00</dc:date>
+    <dc:date>2026-11-16T02:59:15.812539+00:00</dc:date>
   </channel>
 </rss>
