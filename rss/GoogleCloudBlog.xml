@@ -6,17 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 02:57:00 +0000</lastBuildDate>
-    <item>
-      <title>The Blueprint: How Authentic Brands Group expands creativity with AuthOS</title>
-      <link>https://cloud.google.com/blog/topics/retail/the-blueprint-how-authentic-brands-group-expands-creativity-with-authos</link>
-      <description>RetailThe Blueprint: How Authentic Brands Group expands creativity with AuthOSBy Adnan Somani • 3-minute read</description>
-    </item>
-    <item>
-      <title>Inside the Gemini factory: Accelerating partner solutions</title>
-      <link>https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions</link>
-      <description>PartnersInside the Gemini factory: Accelerating partner solutionsBy Noel Kenehan • 12-minute read</description>
-    </item>
+    <lastBuildDate>Mon, 16 Nov 2026 10:19:46 +0000</lastBuildDate>
     <item>
       <title>Don't just flag it, fix it: How to run CodeMender in your pull requests</title>
       <link>https://cloud.google.com/blog/products/identity-security/how-to-run-codemender-in-your-pull-requests</link>
@@ -56,6 +46,16 @@
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 50-minute read</description>
+    </item>
+    <item>
+      <title>Inside the new Google Cloud Data Boundary experience</title>
+      <link>https://cloud.google.com/blog/products/identity-security/inside-the-new-data-boundary-experience</link>
+      <description>Security &amp; IdentityInside the new Google Cloud Data Boundary experienceBy Nitin Garg • 3-minute read</description>
+    </item>
+    <item>
+      <title>How ISVs are unlocking European workloads using Google Cloud Dedicated technology</title>
+      <link>https://cloud.google.com/blog/products/identity-security/how-isvs-are-unlocking-european-workloads-on-google-cloud-dedicated</link>
+      <description>Security &amp; IdentityHow ISVs are unlocking European workloads using Google Cloud Dedicated technologyBy Mattia Tocco • 9-minute read</description>
     </item>
   </channel>
 </rss>
