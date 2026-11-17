@@ -1,5 +1,5 @@
-2026-11-17 12:15:11 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-17 12:15:16 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-17 21:13:30 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-17 21:13:33 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -136,7 +136,7 @@
       <link>https://jshrss.jiangsu.gov.cn/art/2026/4/8/art_78505_11755147.html</link>
       <guid isPermaLink="false">f8vf4i</guid>
     </item>
-    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <generator>html2rss V. 0.34.1 (scrapers: AutoSource::SemanticHtml (25))</generator>
     <ttl>120</ttl>
     <dc:date>2026-11-17T06:32:16Z</dc:date>
   </channel>
