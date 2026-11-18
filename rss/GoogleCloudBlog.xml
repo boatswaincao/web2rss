@@ -6,12 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 21:10:47 +0000</lastBuildDate>
-    <item>
-      <title>Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26</title>
-      <link>https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26</link>
-      <description>HPCWhere supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26By Megan Gawlik • 6-minute read</description>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 03:01:54 +0000</lastBuildDate>
     <item>
       <title>New AI agent observability and governance across BigQuery and Looker</title>
       <link>https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker</link>
@@ -56,6 +51,11 @@
       <title>Congratulations to our 2026 Google Cloud Partner All-stars</title>
       <link>https://cloud.google.com/blog/topics/partners/2026-google-cloud-partner-all-stars-winners</link>
       <description>PartnersCongratulations to our 2026 Google Cloud Partner All-starsBy Kevin Ichhpurani • 2-minute read</description>
+    </item>
+    <item>
+      <title>How to Build Durable Agentic Systems with Google Antigravity: From Instructions to Loops</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-durable-agentic-systems-with-google-antigravity-from-instructions-to-loops</link>
+      <description>Developers &amp; PractitionersHow to Build Durable Agentic Systems with Google Antigravity: From Instructions to LoopsBy Alex Astrum • 14-minute read</description>
     </item>
   </channel>
 </rss>

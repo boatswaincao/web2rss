@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Nov 2026 17:46:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Nov 2026 23:29:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -896,10 +896,6 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/">TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1.jpg" alt="Six coding sessions with shrinking cost bars send their logs to TokenEconomizer, which uses micro-skills, tool pruning and failure-loop intervention to guide an unchanged coding agent through the next session." class="wp-image-1194432" srcset="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/TokenEconomizer-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
 <div style="padding-bottom:0;padding-top:0" class="wp-block-msr-immersive-section alignfull row">
 	
 	<div class="container">
@@ -929,7 +925,7 @@
 
 
 
-<p class="wp-block-paragraph">AI coding agents are increasingly helping developers fix bugs and build features largely on their own, but every interaction with their models consumes <em>tokens. In each session</em>, an agent sends instructions, tool descriptions, and session history to its model. Most efforts to reduce this cost focus on individual tasks. Yet developers return to the same repositories, giving agents an opportunity to learn from previous work. Without that learning, an agent may repeatedly rediscover how to run tests, load tools it never uses, or spend dozens of turns revisiting the same error. </p>
+<p class="wp-block-paragraph">AI coding agents are increasingly helping developers fix bugs and build features largely on their own, but every interaction with their models consumes <em>tokens. In each session</em>, an agent sends instructions, tool descriptions, and session history to its model. Most efforts to reduce this cost focus on individual tasks. Yet developers return to the same repositories, giving agents an opportunity to learn from previous work. Without that learning, an agent may repeatedly rediscover how to run tests, load tools it never uses, or spend dozens of turns revisiting the same error.&nbsp;</p>
 
 
 
@@ -937,8 +933,8 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="2560" height="1371" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png" alt="Each finished session teaches TokenEconomizer something about the repository, so later sessions cost less tokens. 
-" class="wp-image-1194436" srcset="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png 2560w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-300x161.png 300w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-1024x549.png 1024w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-768x411.png 768w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-1536x823.png 1536w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-2048x1097.png 2048w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-710x380.png 710w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-240x129.png 240w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /><figcaption class="wp-element-caption"><em>Figure 1. Each finished session teaches TokenEconomizer something about the repository, so later sessions cost less tokens.</em>&nbsp;</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="2560" height="1371" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png" alt="Each finished session teaches TokenEconomizer something about the repository, so later sessions cost less tokens. 
+" class="wp-image-1194436" srcset="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-scaled.png 2560w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-300x161.png 300w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-1024x549.png 1024w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-768x411.png 768w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-1536x823.png 1536w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-2048x1097.png 2048w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-710x380.png 710w, https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/fig1_teaser-240x129.png 240w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption class="wp-element-caption"><em>Figure 1. Each finished session teaches TokenEconomizer something about the repository, so later sessions cost less tokens.</em>&nbsp;</figcaption></figure>
 
 
 
@@ -966,35 +962,6 @@
 
 <p class="wp-block-paragraph">We also tested three popular open-source plugins, each built around a fixed cost-saving strategy. Each lowered costs in some repositories but not others. Together, these findings suggest that effective cost control must adapt to the repository, rather than apply the same strategy everywhere.</p>
 
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1141385">
-		
-
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300 display-block" href="https://labs.ai.azure.com/" aria-label="Foundry Labs" data-bi-cn="Foundry Labs" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/06/Azure-AI-Foundry_1600x900.jpg" alt="decorative image and the text " />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Foundry Labs</h2>
-				
-								<p id="foundry-labs" class="large">Foundry Labs bridges the distance between Microsoft breakthroughs and the builders, scientists, and curious minds who can put them to work.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://labs.ai.azure.com/" aria-describedby="foundry-labs" class="btn btn-brand glyph-append glyph-append-chevron-right" data-bi-cn="Foundry Labs" target="_blank">
-							Foundry Labs						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
 
 
 <h2 id="how-tokeneconomizer-works" class="wp-block-heading">How TokenEconomizer works</h2>
@@ -3432,38 +3399,6 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1194821">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Podcast</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300 display-block" href="https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/" aria-label="Microsoft Research Focus – Edition #98" data-bi-cn="Microsoft Research Focus – Edition #98" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg" alt="Research Focus" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Microsoft Research Focus – Edition #98</h2>
-				
-								<p id="microsoft-research-focus-edition-98" class="large">What&#8217;s new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. </p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/" aria-describedby="microsoft-research-focus-edition-98" class="btn btn-brand glyph-append glyph-append-chevron-right" data-bi-cn="Microsoft Research Focus – Edition #98" target="_blank">
-							Listen or watch now						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
 <h2 id="privacy-and-safety-by-design" class="wp-block-heading">Privacy and safety by design</h2>
 
 
@@ -4024,38 +3959,6 @@
 
 <p class="wp-block-paragraph">These challenges help explain why consistently generating high-quality interactive visualizations remain difficult in real-world use. Meanwhile, built-in interactions in some visualization libraries are not expressive enough on their own to create bespoke interactive charts. And these challenges are results of the lack of an expressive yet high-level language to specify visual interactions.</p>
 
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1186971">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">ACADEMIC CONFERENCE</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300 display-block" href="https://www.microsoft.com/en-us/research/event/sosp-2026/" aria-label="Microsoft at SOSP 2026" data-bi-cn="Microsoft at SOSP 2026" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2025/03/ICLR_WebBanner_1920x720.png" alt="ICLR event page header - abstract shapes on a purple gradient background" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Microsoft at SOSP 2026</h2>
-				
-								<p id="microsoft-at-sosp-2026" class="large">Academic and industrial participants present research and experience papers that cover the full range of theory and practice of computer systems software.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/event/sosp-2026/" aria-describedby="microsoft-at-sosp-2026" class="btn btn-brand glyph-append glyph-append-chevron-right" data-bi-cn="Microsoft at SOSP 2026" target="_blank">
-							Learn more						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
 
 
 <h2 id="flint-interactive" class="wp-block-heading">Flint-interactive</h2>
