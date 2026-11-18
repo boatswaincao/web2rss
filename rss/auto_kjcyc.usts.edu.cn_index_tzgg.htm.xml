@@ -1,8 +1,8 @@
-2026-11-18 03:05:03 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/index/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-18 03:05:04 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kjcyc.usts.edu.cn","captured_count":59,"drop_tallies":{"duplicate_url":21,"different_domain":7,"low_word_count":31},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
-2026-11-18 03:05:06 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx7JEKUaboIvixRI1h0ZI-8B (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-18 03:05:10 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx5lHMhNH7RX-p12vEvfMQOQ (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-18 03:05:12 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx4xcxNoqr5tllY0y6soK4VP (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-18 11:16:26 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/index/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-18 11:16:28 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kjcyc.usts.edu.cn","captured_count":59,"drop_tallies":{"duplicate_url":21,"different_domain":7,"low_word_count":31},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-18 11:16:31 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx5PtvTkumtrJIRyRcJaqmap (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-18 11:16:33 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx7JEKUaboIvixRI1h0ZI-8B (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-18 11:16:36 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kjcyc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kjcyc.usts.edu.cn/system/resource/code/auth/cas/clogin.jsp?casauthurl=D9KygxnW8qEaJi4gCwxl2BirFsBtHb1zOJfFc-XxB00o9EmMfXVIsvU_eJ5ZoMbwBwrgjyloJFkGeswv9To4dfhHrTpnBtxfVRyB0PwnGx5lHMhNH7RX-p12vEvfMQOQ (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -14,42 +14,42 @@
     <link>https://kjcyc.usts.edu.cn/index/tzgg.htm</link>
     <description>Latest items from https://kjcyc.usts.edu.cn/index/tzgg.htm</description>
     <language>zh</language>
-    <pubDate>Wed, 18 Nov 2026 03:05:12 +0000</pubDate>
+    <pubDate>Wed, 18 Nov 2026 11:16:36 +0000</pubDate>
     <item>
       <title>警钟长鸣 | 国家自然科学基金委员会学术不端案件通报（2026年第2批）</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6106.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;警钟长鸣 | 国家自然科学基金委员会学术不端案件通报（2026年第2批）&quot; title=&quot;警钟长鸣 | 国家自然科学基金委员会学术不端案件通报（2026年第2批）&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">bq9xbq</guid>
+      <guid isPermaLink="false">pvhxeo</guid>
     </item>
     <item>
       <title>关于启动“科技奖励培育库”遴选入库的通知</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6104.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于启动“科技奖励培育库”遴选入库的通知&quot; title=&quot;关于启动“科技奖励培育库”遴选入库的通知&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">125d4tj</guid>
+      <guid isPermaLink="false">4kd6ot</guid>
     </item>
     <item>
       <title>关于举办2026年苏州科技大学“双高协同”产学研对接会暨苏州“百校千企”联盟校企互联...</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6101.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于举办2026年苏州科技大学“双高协同”产学研对接会暨苏州“百校千企”联盟校企互联...&quot; title=&quot;关于举办2026年苏州科技大学“双高协同”产学研对接会暨苏州“百校千企”联盟校企互联...&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">150z8qv</guid>
+      <guid isPermaLink="false">xstqu</guid>
     </item>
     <item>
       <title>科技部等22部门发布《科研失信行为调查处理规则》，8种行为，14种措施，可取消院士称号...</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6058.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;科技部等22部门发布《科研失信行为调查处理规则》，8种行为，14种措施，可取消院士称号...&quot; title=&quot;科技部等22部门发布《科研失信行为调查处理规则》，8种行为，14种措施，可取消院士称号...&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">18a5tfy</guid>
+      <guid isPermaLink="false">1sjm3mg</guid>
     </item>
     <item>
       <title>关于做好2026年度江苏省高等学校基础科学 （自然科学）研究项目申报工作的通知</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6042.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于做好2026年度江苏省高等学校基础科学 （自然科学）研究项目申报工作的通知&quot; title=&quot;关于做好2026年度江苏省高等学校基础科学 （自然科学）研究项目申报工作的通知&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">1e7egmt</guid>
+      <guid isPermaLink="false">1idf4mb</guid>
     </item>
     <item>
       <title>关于组织申报2026年度“华夏建设科学技术奖”的通知</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6028.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于组织申报2026年度“华夏建设科学技术奖”的通知&quot; title=&quot;关于组织申报2026年度“华夏建设科学技术奖”的通知&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">1mhl0yk</guid>
+      <guid isPermaLink="false">1a04sju</guid>
     </item>
     <item>
       <title>科学技术部令第24号 科学技术活动违规行为调查处理规定</title>
@@ -61,40 +61,34 @@
       <title>关于开展2026年度校重点科技平台考核工作的通知</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6102.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于开展2026年度校重点科技平台考核工作的通知&quot; title=&quot;关于开展2026年度校重点科技平台考核工作的通知&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">1eufuvp</guid>
+      <guid isPermaLink="false">1hclrwj</guid>
     </item>
     <item>
       <title>关于开展2026年度科研成果登记工作的通知（自然科学类）</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6087.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于开展2026年度科研成果登记工作的通知（自然科学类）&quot; title=&quot;关于开展2026年度科研成果登记工作的通知（自然科学类）&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">rzuaiy</guid>
+      <guid isPermaLink="false">5in1wc</guid>
     </item>
     <item>
       <title>关于组织申报2026年江苏省科技副总的通知</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6053.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;关于组织申报2026年江苏省科技副总的通知&quot; title=&quot;关于组织申报2026年江苏省科技副总的通知&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">5wltpy</guid>
+      <guid isPermaLink="false">12wz85o</guid>
     </item>
     <item>
       <title>中国科学院: 关于科研诚信的43点提醒</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6032.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;中国科学院: 关于科研诚信的43点提醒&quot; title=&quot;中国科学院: 关于科研诚信的43点提醒&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">1289bag</guid>
+      <guid isPermaLink="false">6kh2vf</guid>
     </item>
     <item>
       <title>以案说纪: 高校科研经费违规案例及警示</title>
       <link>https://kjcyc.usts.edu.cn/info/1046/6017.htm</link>
       <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;以案说纪: 高校科研经费违规案例及警示&quot; title=&quot;以案说纪: 高校科研经费违规案例及警示&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">te1o8h</guid>
+      <guid isPermaLink="false">8kut0n</guid>
     </item>
-    <item>
-      <title>国家卫健委通报28起科研失信行为</title>
-      <link>https://kjcyc.usts.edu.cn/info/1046/6008.htm</link>
-      <description>&lt;img src=&quot;https://kjcyc.usts.edu.cn/dfiles/12937/news/images/icon/005.jpg&quot; alt=&quot;国家卫健委通报28起科研失信行为&quot; title=&quot;国家卫健委通报28起科研失信行为&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;</description>
-      <guid isPermaLink="false">hlwwnr</guid>
-    </item>
-    <generator>html2rss V. 0.34.1 (scrapers: AutoSource::SemanticHtml (13))</generator>
+    <generator>html2rss V. 0.34.1 (scrapers: AutoSource::SemanticHtml (12))</generator>
     <ttl>10</ttl>
-    <dc:date>2026-11-18T03:05:12.920084+00:00</dc:date>
+    <dc:date>2026-11-18T11:16:36.146671+00:00</dc:date>
   </channel>
 </rss>
