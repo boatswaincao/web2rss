@@ -1,8 +1,8 @@
-2026-11-18 11:15:10 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kxjst.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kxjst.jiangsu.gov.cn/col/col82540/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-18 11:15:11 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-18 11:15:12 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-18 11:15:13 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-18 11:15:15 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-18 19:32:10 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kxjst.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kxjst.jiangsu.gov.cn/col/col82540/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-18 19:32:11 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-18 19:32:12 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-18 19:32:13 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-18 19:32:14 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -14,7 +14,7 @@
     <link>https://kxjst.jiangsu.gov.cn/col/col82540/index.html</link>
     <description>Latest items from https://kxjst.jiangsu.gov.cn/col/col82540/index.html</description>
     <language>en</language>
-    <pubDate>Wed, 18 Nov 2026 11:07:17 -0000</pubDate>
+    <pubDate>Wed, 18 Nov 2026 16:14:23 -0000</pubDate>
     <item>
       <title>关于转发国家重点研发计划“尖刀”技术攻关工程重点专项2026年度项目申报指南的通知</title>
       <link>https://kxjst.jiangsu.gov.cn/art/2026/11/18/art_82540_11861595.html</link>
@@ -192,6 +192,6 @@
     </item>
     <generator>html2rss V. 0.34.1 (scrapers: AutoSource::SemanticHtml (25))</generator>
     <ttl>360</ttl>
-    <dc:date>2026-11-18T11:07:17Z</dc:date>
+    <dc:date>2026-11-18T16:14:23Z</dc:date>
   </channel>
 </rss>
