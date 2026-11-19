@@ -1,4 +1,4 @@
-2026-11-19 09:02:04 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"www.mathworks.com","captured_count":4,"drop_tallies":{"invalid":1,"duplicate_url":1,"low_word_count":2}}
+2026-11-19 17:58:01 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"www.mathworks.com","captured_count":4,"drop_tallies":{"invalid":1,"duplicate_url":1,"low_word_count":2}}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,11 +10,11 @@
     <link>https://www.mathworks.com/videos/tech-talks/controls.html</link>
     <description>Control systems are found everywhere, from cars and airplanes to hard drives and medical devices.</description>
     <language>en</language>
-    <pubDate>Wed, 18 Nov 2026 23:14:55 -0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 10:22:58 -0000</pubDate>
     <item>
       <title>Control Systems Video Series</title>
       <link>https://www.mathworks.com/videos/why-the-bode-plot-is-awesome-1781070392174.html</link>
-      <description>&lt;img src=&quot;https://www.mathworks.com/videos/tech-talks/controls/_jcr_content/mainParsys/band_copy_copy/mainParsys/columns_copy/7e9cd21f-4b8e-4ecb-a51f-de89fdc3af78/thumbnail.adapt.full.medium.jpg/1792392044716.jpg&quot; alt=&quot;Control Systems Video Series&quot; title=&quot;Control Systems Video Series&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;
+      <description>&lt;img src=&quot;https://www.mathworks.com/videos/tech-talks/controls/_jcr_content/mainParsys/band_copy_copy/mainParsys/columns_copy/7e9cd21f-4b8e-4ecb-a51f-de89fdc3af78/thumbnail.adapt.full.medium.jpg/1792392044687.jpg&quot; alt=&quot;Control Systems Video Series&quot; title=&quot;Control Systems Video Series&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;
 
 Control systems are found everywhere, from cars and airplanes to hard drives and medical devices. They help ensure system performance, safety, and efficiency.
 Watch these tech talk videos to learn about the controls concepts essential for analyzing and designing feedback control systems. Videos cover a wide range of topics from PID control to reinforcement learning. Each video provides a strong foundation on a specific topic and includes links to additional resources (please see Related Resources below each video) allowing you to further deepen your understanding. Make sure to check back regularly for new videos to expand your knowledge and understanding of controls concepts.
@@ -66,7 +66,7 @@ Watch videos (5 videos)
 Panel Navigation
 Using Bode Plots
 Watch videos (5 videos)</description>
-      <guid isPermaLink="false">i49r0t</guid>
+      <guid isPermaLink="false">pg4pbh</guid>
     </item>
     <item>
       <title>Watch videos (4 videos)</title>
@@ -150,6 +150,6 @@ Watch videos (5 videos)</description>
     </item>
     <generator>html2rss V. 0.34.1 (scrapers: AutoSource::SemanticHtml (17))</generator>
     <ttl>720</ttl>
-    <dc:date>2026-11-18T23:14:55Z</dc:date>
+    <dc:date>2026-11-19T10:22:58Z</dc:date>
   </channel>
 </rss>
