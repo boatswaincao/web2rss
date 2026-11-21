@@ -1,4 +1,4 @@
-2026-11-21 10:28:06 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"notify.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://notify.usts.edu.cn/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-21 17:45:07 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"notify.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://notify.usts.edu.cn/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,7 +10,7 @@
     <link>https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</link>
     <description>Latest items from https://notify.usts.edu.cn/sx_list.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1131</description>
     <language>zh</language>
-    <pubDate>Sat, 21 Nov 2026 10:28:12 +0000</pubDate>
+    <pubDate>Sat, 21 Nov 2026 17:45:23 +0000</pubDate>
     <item>
       <title>省·政·协 戏曲走近大学生: 昆剧《竹林三昧》观演创作谈</title>
       <link>https://notify.usts.edu.cn/info/1131/17170.htm</link>
@@ -91,6 +91,6 @@
     </item>
     <generator>html2rss V. 0.35.0 (scrapers: AutoSource::SemanticHtml (13))</generator>
     <ttl>360</ttl>
-    <dc:date>2026-11-21T10:28:12.977813+00:00</dc:date>
+    <dc:date>2026-11-21T17:45:23.629864+00:00</dc:date>
   </channel>
 </rss>

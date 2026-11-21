@@ -1,4 +1,4 @@
-2026-11-21 10:29:05 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"terrano.ucsd.edu","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched http://terrano.ucsd.edu/jorge/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-21 17:45:55 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"terrano.ucsd.edu","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched http://terrano.ucsd.edu/jorge/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
