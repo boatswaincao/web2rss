@@ -6,7 +6,7 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 10:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:58:26 +0000</lastBuildDate>
     <item>
       <title>zhouxiaoka /autoclip | Python | N/A</title>
       <link>https://github.com/zhouxiaoka/autoclip</link>
@@ -30,7 +30,7 @@
     <item>
       <title>mjmirza /app-store-compliance | Shell | N/A</title>
       <link>https://github.com/mjmirza/app-store-compliance</link>
-      <description>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.</description>
+      <description>Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.</description>
     </item>
     <item>
       <title>google-labs-code /stitch-skills | TypeScript | N/A</title>
