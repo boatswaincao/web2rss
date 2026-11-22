@@ -1,9 +1,9 @@
-2026-11-22 02:47:51 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
-2026-11-22 02:47:51 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
-2026-11-22 02:47:52 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-22 02:47:53 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-22 02:47:54 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-22 02:47:55 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-22 10:32:30 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-22 10:32:30 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-22 10:32:30 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-22 10:32:31 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-22 10:32:32 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-22 10:32:32 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -15,7 +15,7 @@
     <link>https://engineeringmedia.com/blog</link>
     <description>Latest items from https://engineeringmedia.com/blog</description>
     <language>en-US</language>
-    <pubDate>Sun, 22 Nov 2026 02:47:55 +0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 10:32:33 +0000</pubDate>
     <image>
       <url>http://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5e6c025c6f379e1858688b43/1584136799463/EM_Badge_Black.png?format=1500w</url>
       <title>Blog — Engineering Media</title>
@@ -45,6 +45,6 @@
     </item>
     <generator>html2rss V. 0.35.0 (scrapers: AutoSource::SemanticHtml (4))</generator>
     <ttl>360</ttl>
-    <dc:date>2026-11-22T02:47:55.760895+00:00</dc:date>
+    <dc:date>2026-11-22T10:32:33.056803+00:00</dc:date>
   </channel>
 </rss>
