@@ -1,8 +1,8 @@
-2026-11-22 23:06:25 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kxjst.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kxjst.jiangsu.gov.cn/col/col82540/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-22 23:06:26 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-22 23:06:27 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-22 23:06:28 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
-2026-11-22 23:06:29 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-23 03:56:20 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"kxjst.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://kxjst.jiangsu.gov.cn/col/col82540/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-23 03:56:22 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-23 03:56:24 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-23 03:56:26 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
+2026-11-23 03:56:27 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"kxjst.jiangsu.gov.cn","captured_count":3,"drop_tallies":{"duplicate_url":1,"low_word_count":2}}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"

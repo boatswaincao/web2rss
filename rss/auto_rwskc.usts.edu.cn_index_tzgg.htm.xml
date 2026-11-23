@@ -1,0 +1,32 @@
+2026-11-23 03:56:39 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"rwskc.usts.edu.cn","captured_count":65,"drop_tallies":{"duplicate_url":19,"date_prefix":16,"low_word_count":30}}
+2026-11-23 03:56:39 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"rwskc.usts.edu.cn","captured_count":65,"drop_tallies":{"duplicate_url":19,"date_prefix":16,"low_word_count":30}}
+2026-11-23 03:56:40 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"rwskc.usts.edu.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://rwskc.usts.edu.cn/index/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>【置顶】2026年人文社科类主要纵向项目申报一览表-人文社科处</title>
+    <link>https://rwskc.usts.edu.cn/info/1122/2317.htm</link>
+    <description>(注：该表信息仅供参考，具体要求和申报时间以正式通知公告为准）</description>
+    <language>zh</language>
+    <pubDate>Mon, 23 Nov 2026 03:56:45 +0000</pubDate>
+    <item>
+      <title>关于征集2025年度苏州市法学研究课题选题建议的通知</title>
+      <link>https://rwskc.usts.edu.cn/info/1122/2318.htm</link>
+      <description>上一篇：</description>
+      <guid isPermaLink="false">1chuez8</guid>
+    </item>
+    <item>
+      <title>关于征集2025年度苏州市社科基金项目研究选题的通知</title>
+      <link>https://rwskc.usts.edu.cn/info/1122/2310.htm</link>
+      <description>下一篇：</description>
+      <guid isPermaLink="false">pl8ufz</guid>
+    </item>
+    <generator>html2rss V. 0.35.0 (scrapers: AutoSource::SemanticHtml (2))</generator>
+    <ttl>10</ttl>
+    <dc:date>2026-11-23T03:56:45.123895+00:00</dc:date>
+  </channel>
+</rss>
