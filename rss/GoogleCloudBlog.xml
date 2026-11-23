@@ -6,11 +6,11 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 03:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:50:04 +0000</lastBuildDate>
     <item>
-      <title>A bridge to modernization: What IDC’s Market Note says about Cameyo by Google</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google</link>
-      <description>Chrome EnterpriseA bridge to modernization: What IDC’s Market Note says about Cameyo by GoogleBy Rob Beard • 3-minute read</description>
+      <title>Introducing the MongoDB Integration for Google's ADK</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-mongodb-integration-for-googles-adk</link>
+      <description>Developers &amp; PractitionersIntroducing the MongoDB Integration for Google's ADKBy Abirami Sukumaran • 4-minute read</description>
     </item>
     <item>
       <title>Scaling workforce productivity and upskilling in the agentic era</title>
