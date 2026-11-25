@@ -1,5 +1,5 @@
-2026-11-24 21:29:07 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-24 21:29:10 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-25 04:29:01 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
+2026-11-25 04:29:05 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,7 +10,7 @@
     <title>江苏省人力资源和社会保障厅 资讯中心</title>
     <link>https://jshrss.jiangsu.gov.cn/col/col79433/index.html</link>
     <description>Latest items from https://jshrss.jiangsu.gov.cn/col/col79433/index.html</description>
-    <pubDate>Tue, 24 Nov 2026 06:42:03 -0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 03:01:44 -0000</pubDate>
     <item>
       <title>全省2026年12月份“人才夜市”“技能夜校”“苏创助... 2026-11-02</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/2/art_78504_11853131.html</link>
@@ -61,32 +61,32 @@
       <dc:date>2026-11-16T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>从单向定能力到多维评人才，苏州让每一份技能被看见...</title>
-      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860285.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">pnqp5n</guid>
-      <dc:date>2026-11-16T00:00:00+00:00</dc:date>
+      <title>宿迁：筑梦泗阳・创富桃源｜“苏创助跑・源来好创业...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865240.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1kh4dhz</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>连云港：600个微信好友、千余次暖心服务，“零跑...</title>
-      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860283.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2384r2</guid>
-      <dc:date>2026-11-16T00:00:00+00:00</dc:date>
+      <title>徐州市稳步推进2026秋季名校名所行系列校园招聘...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865229.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">4re7g0</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>南京留交会组织青年人才感知体验城市发展</title>
-      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860279.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1a4t3lp</guid>
-      <dc:date>2026-11-16T00:00:00+00:00</dc:date>
+      <title>跨越山海赴滨城 江海之约引英才——2026年秋季...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865228.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1sb3r61</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>基金安全 人人守护 盐城市人社局集中开展社保基金...</title>
-      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/6/art_78498_11855645.html</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">61hup1</guid>
-      <dc:date>2026-11-06T00:00:00+00:00</dc:date>
+      <title>宿迁——“四位一体”职业技能培训模式赋能高质量就...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860288.html</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">85wd8o</guid>
+      <dc:date>2026-11-16T00:00:00+00:00</dc:date>
     </item>
     <item>
       <title>全省人社领域消防安全视频会召开</title>
@@ -96,11 +96,11 @@
       <dc:date>2026-11-23T00:00:00+00:00</dc:date>
     </item>
     <item>
-      <title>宿迁——“四位一体”职业技能培训模式赋能高质量就...</title>
-      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860288.html</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">85wd8o</guid>
-      <dc:date>2026-11-16T00:00:00+00:00</dc:date>
+      <title>淮安市人才发展推介暨在淮大中专院校毕业生就业双选...</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865249.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1sbal0i</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
     </item>
     <item>
       <title>拉萨市2026年定向招募江苏省高校毕业生“三支一扶”计... 2026-11-13</title>
@@ -188,6 +188,6 @@
     </item>
     <generator>html2rss V. 0.36.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
     <ttl>120</ttl>
-    <dc:date>2026-11-24T06:42:03Z</dc:date>
+    <dc:date>2026-11-25T03:01:44Z</dc:date>
   </channel>
 </rss>
