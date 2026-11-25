@@ -1,8 +1,8 @@
-2026-11-25 04:28:45 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
-2026-11-25 04:28:45 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-25 04:28:46 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-25 04:28:47 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
-2026-11-25 04:28:47 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-25 14:46:48 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":2,"drop_tallies":{"invalid":1,"different_domain":1},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
+2026-11-25 14:46:49 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-25 14:46:49 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-25 14:46:51 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
+2026-11-25 14:46:51 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"engineeringmedia.com","captured_count":1,"drop_tallies":{"invalid":1}}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -14,7 +14,7 @@
     <link>https://engineeringmedia.com/blog</link>
     <description>Latest items from https://engineeringmedia.com/blog</description>
     <language>en-US</language>
-    <pubDate>Wed, 25 Nov 2026 04:28:47 +0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 14:46:51 +0000</pubDate>
     <image>
       <url>http://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5e6c025c6f379e1858688b43/1584136799463/EM_Badge_Black.png?format=1500w</url>
       <title>Blog — Engineering Media</title>
@@ -44,6 +44,6 @@
     </item>
     <generator>html2rss V. 0.36.0 (scrapers: AutoSource::SemanticHtml (4))</generator>
     <ttl>360</ttl>
-    <dc:date>2026-11-25T04:28:47.643642+00:00</dc:date>
+    <dc:date>2026-11-25T14:46:51.592582+00:00</dc:date>
   </channel>
 </rss>
