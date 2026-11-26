@@ -1,5 +1,3 @@
-2026-11-26 05:19:50 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"jshrss.jiangsu.gov.cn","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched https://jshrss.jiangsu.gov.cn/col/col78506/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
-2026-11-26 05:19:54 +0000 [WARN] {"event_name":"auto_source.admission_emptied","host":"jshrss.jiangsu.gov.cn","captured_count":90,"drop_tallies":{"duplicate_url":15,"self_link":1,"different_domain":44,"low_word_count":30},"hint":"auto_source.cleanup.keep_different_domain: true (or --keep-different-domain); allows published items to link to any domain supplied by the source"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -42,6 +40,7 @@
     <item>
       <title>朱从明：持之以恒推进全面从严治党 为江苏人社事业...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/26/art_78497_11865708.html</link>
+      <description>作者：江苏省人力资源和社会保障厅党组书记、厅长 朱从明党的二十届五中全会审议通过的《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，把...</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">1ajz0fi</guid>
       <dc:date>2026-11-26T00:00:00+00:00</dc:date>
@@ -49,6 +48,7 @@
     <item>
       <title>全省人社领域消防安全视频会召开</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/23/art_78497_11863739.html</link>
+      <description>为深入学习贯彻习近平总书记关于安全生产和消防工作的重要指示批示精神，认真落实党的二十届五中全会精神，按照省委十四届十三次全会关于抓实抓细民生保障...</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">1180nn</guid>
       <dc:date>2026-11-23T00:00:00+00:00</dc:date>
@@ -56,6 +56,7 @@
     <item>
       <title>省人社厅党组传达学习省委十四届十三次全会精神</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/20/art_78497_11862748.html</link>
+      <description>11月20日，省人社厅召开厅党组会议，传达学习省委十四届十三次全会精神，研究部署全省人社系统学习贯彻落实举措。厅党组书记、厅长朱从明主持会议并讲...</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">13jhb3p</guid>
       <dc:date>2026-11-20T00:00:00+00:00</dc:date>
@@ -63,6 +64,7 @@
     <item>
       <title>朱从明参加太湖人才发展大会并专题调研人才工作</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/20/art_78497_11862535.html</link>
+      <description>11月19日，省人社厅党组书记、厅长朱从明赴无锡参加2026太湖人才发展大会，并深入科研院所、重点企业、实训基地、人才社区专题调研人才工作。无锡...</description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">zwwf0t</guid>
       <dc:date>2026-11-20T00:00:00+00:00</dc:date>
@@ -70,6 +72,7 @@
     <item>
       <title>宿迁：筑梦泗阳・创富桃源｜“苏创助跑・源来好创业...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865240.html</link>
+      <description>11月18日，“苏创助跑・源来好创业”筑梦泗阳・创富桃源创新创业大赛在泗阳工人文化宫成功举办。本次大赛由泗阳县人力资源和社会保障局主办，常州大学...</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">1kh4dhz</guid>
       <dc:date>2026-11-25T00:00:00+00:00</dc:date>
@@ -77,6 +80,7 @@
     <item>
       <title>徐州市稳步推进2026秋季名校名所行系列校园招聘...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865229.html</link>
+      <description>金秋彭城，盛意相邀！为落实国家、省、市高校毕业生就业相关工作部署，积极响应“苏荟英才”江苏2027届高校毕业生引才专项行动，徐州市人社部门紧扣徐...</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">4re7g0</guid>
       <dc:date>2026-11-25T00:00:00+00:00</dc:date>
@@ -84,6 +88,7 @@
     <item>
       <title>跨越山海赴滨城 江海之约引英才——2026年秋季...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865228.html</link>
+      <description>11月16日，2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘活动在大连海事大学成功举办。南通市引才团跨越山海，走进这所百年航海...</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">1sb3r61</guid>
       <dc:date>2026-11-25T00:00:00+00:00</dc:date>
@@ -91,6 +96,7 @@
     <item>
       <title>宿迁——“四位一体”职业技能培训模式赋能高质量就...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/16/art_78498_11860288.html</link>
+      <description>就业是民生之本，技能是就业之基。为深入贯彻落实国家、省职业技能培训部署要求，今年以来，江苏省宿迁市人社局坚持投资于物和投资于人紧密结合，创新推行...</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">85wd8o</guid>
       <dc:date>2026-11-16T00:00:00+00:00</dc:date>
@@ -98,6 +104,7 @@
     <item>
       <title>党代表访谈: 朱从明 霍亮：发力“就业友好” 托...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/26/art_78497_11865709.html</link>
+      <description>《新华日报》报道图为演播室访谈现场。从左到右依次为：刘春、朱从明、霍亮。 本报记者 万程鹏 摄11月25日，省人力资源和社会保障厅党组书记、厅长...</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">mii93r</guid>
       <dc:date>2026-11-26T00:00:00+00:00</dc:date>
@@ -105,6 +112,7 @@
     <item>
       <title>淮安市人才发展推介暨在淮大中专院校毕业生就业双选...</title>
       <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78498_11865249.html</link>
+      <description>11月18日下午，“淮抱青春 共创未来”淮安市人才发展推介暨在淮大中专院校毕业生就业双选会在淮阴师范学院成功举办。副市长洪然、淮阴师范学院党委书...</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">1sbal0i</guid>
       <dc:date>2026-11-25T00:00:00+00:00</dc:date>
@@ -186,7 +194,182 @@
       <guid isPermaLink="false">a1awmc</guid>
       <dc:date>2026-11-02T00:00:00+00:00</dc:date>
     </item>
-    <generator>html2rss V. 0.36.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <item>
+      <title>第27届江苏新闻奖拟表彰对象公示 2026-10-19</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/10/19/art_78505_11843924.html</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1ujnsgg</guid>
+      <dc:date>2026-10-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>全省先进医疗卫生工作者拟表彰对象公示 2026-06-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/6/25/art_78505_11794797.html</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9y6y49</guid>
+      <dc:date>2026-06-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于江苏省参加第15届全运会奖励集体和个人的公示 2026-04-08</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/4/8/art_78505_11755147.html</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f8vf4i</guid>
+      <dc:date>2026-04-08T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>2025年江苏省五一劳动奖、江苏省工人先锋号和江苏省五... 2025-12-01</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/12/1/art_78505_11683728.html</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1i8uyyu</guid>
+      <dc:date>2025-12-01T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>关于全国价格工作先进集体和先进个人推荐对象的公示 2025-11-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/11/25/art_78505_11680524.html</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">g2ut24</guid>
+      <dc:date>2025-11-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>第七次全省自强模范暨助残模范拟表彰对象公示 2025-11-05</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/11/5/art_78505_11669793.html</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">54jj6w</guid>
+      <dc:date>2025-11-05T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>泰州学院2026年公开招聘工作人员拟聘用人员名单公示（... 2026-11-26</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/26/art_78506_11865784.html</link>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">r2shsl</guid>
+      <dc:date>2026-11-26T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>南京工程学院2026年公开招聘工作人员（第一批）拟聘用... 2026-11-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78506_11865185.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1171gol</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>南京财经大学2026年公开招聘教学科研岗拟聘用人员名单... 2026-11-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/25/art_78506_11865184.html</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">vblj2k</guid>
+      <dc:date>2026-11-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>常州工程职业技术学院2026年长期公开招聘高层次人才拟... 2026-11-24</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11864033.html</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">126mvq1</guid>
+      <dc:date>2026-11-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>南京科技职业学院2026年公开招聘拟聘用人员名单公示（... 2026-11-24</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11864031.html</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1h1wzhm</guid>
+      <dc:date>2026-11-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>江苏海事职业技术学院2026年公开招聘专职辅导员公告 2026-11-24</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11864029.html</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">labdfl</guid>
+      <dc:date>2026-11-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>徐州工业职业技术学院2025年公开招聘高层次人才拟聘用... 2026-11-24</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11864012.html</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">cj93qm</guid>
+      <dc:date>2026-11-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>苏州科技大学2026年公开招聘工作人员公告（第二批） 2026-11-24</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/24/art_78506_11863997.html</link>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">g3iw6n</guid>
+      <dc:date>2026-11-24T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>南京工业大学2026年教学科研岗公开招聘拟聘用人员名单... 2026-11-23</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/23/art_78506_11863786.html</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">z6qutn</guid>
+      <dc:date>2026-11-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>泰州学院2026年公开招聘工作人员（第三批）拟聘用人员... 2026-11-23</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2026/11/23/art_78506_11863693.html</link>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">10v74v0</guid>
+      <dc:date>2026-11-23T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百八十 2025-06-06</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/6/6/art_78507_11577568.html</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1srsvpr</guid>
+      <dc:date>2025-06-06T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十九 2025-03-27</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/3/27/art_78507_11526571.html</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">11zva7j</guid>
+      <dc:date>2025-03-27T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十八 2025-01-16</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2025/1/16/art_78507_11472716.html</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">9qnjo9</guid>
+      <dc:date>2025-01-16T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十七 2024-12-31</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/12/31/art_78507_11460475.html</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">lvmfcl</guid>
+      <dc:date>2024-12-31T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十六 2024-12-19</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/12/19/art_78507_11450328.html</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1da55cv</guid>
+      <dc:date>2024-12-19T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十五 2024-12-04</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/12/4/art_78507_11437036.html</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">12zx4un</guid>
+      <dc:date>2024-12-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十四 2024-12-04</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/12/4/art_78507_11436968.html</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1p40dxx</guid>
+      <dc:date>2024-12-04T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十三 2024-11-25</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/11/25/art_78507_11427652.html</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1qrxbpe</guid>
+      <dc:date>2024-11-25T00:00:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>省直管企业特殊工种提前退休人员情况公示二百七十二 2024-11-06</title>
+      <link>https://jshrss.jiangsu.gov.cn/art/2024/11/6/art_78507_11412361.html</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">1u7k6us</guid>
+      <dc:date>2024-11-06T00:00:00+00:00</dc:date>
+    </item>
+    <generator>html2rss V. 0.36.1 (scrapers: AutoSource::SemanticHtml (50))</generator>
     <ttl>120</ttl>
     <dc:date>2026-11-26T03:04:35Z</dc:date>
   </channel>

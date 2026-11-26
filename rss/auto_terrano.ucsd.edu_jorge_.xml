@@ -1,4 +1,3 @@
-2026-11-26 05:19:40 +0000 [WARN] {"event_name":"auto_source.no_scraper","host":"terrano.ucsd.edu","category":"unsupported_surface","message":"Html2rss::AutoSource: no scraper matched http://terrano.ucsd.edu/jorge/feed (No scrapers found: unsupported extraction surface for auto mode. Try a direct listing/changelog/category URL, or use explicit selectors in a feed config.)"}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -160,7 +159,157 @@
       <description>G. Bianchin, M. Vaquero, J. Cortés, E. Dall&#39;Anese Automatica 185 (2026), 112753</description>
       <guid isPermaLink="false">1nncla9</guid>
     </item>
-    <generator>html2rss V. 0.36.0 (scrapers: AutoSource::SemanticHtml (25))</generator>
+    <item>
+      <title>Safe and dynamically-feasible motion planning using control Lyapunov and barrier functions</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp205.html</link>
+      <description>P. Mestres, C. Nieto-Granda, J. Cortés IEEE Transactions on Robotics 41 (2025), 6440-6459</description>
+      <guid isPermaLink="false">sy680s</guid>
+    </item>
+    <item>
+      <title>Willems&#39; fundamental lemma for nonlinear systems with Koopman linear embedding</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp204.html</link>
+      <description>X. Shang, J. Cortés, Y. Zheng IEEE Control Systems Letters 8 (2025), 3135-3140</description>
+      <guid isPermaLink="false">lvfx3</guid>
+    </item>
+    <item>
+      <title>Independence of closed-loop equilibria and stability from the choice of control barrier function for a given safe set</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp203.html</link>
+      <description>Y. Chen, P. Mestres, J. Cortés, E. Dall&#39;Anese Automatica 191 (2026), 113105</description>
+      <guid isPermaLink="false">1lahfc7</guid>
+    </item>
+    <item>
+      <title>Recursive forward-backward EDMD: guaranteed algebraic search for Koopman invariant subspaces</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp202.html</link>
+      <description>M. Haseli, J. Cortés IEEE Access 13 (2025), 61006-61025</description>
+      <guid isPermaLink="false">19jc3ak</guid>
+    </item>
+    <item>
+      <title>Safe event-triggered Gaussian process learning for barrier-constrained control</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp201.html</link>
+      <description>A. Lederer, A. Begzadić, S. Hirche, J. Cortés, S. Herbert IEEE Transactions on Automatic Control 71 (9) (2026), 6179-6186</description>
+      <guid isPermaLink="false">7emx69</guid>
+    </item>
+    <item>
+      <title>Converse theorems for certificates of safety and stability</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp199.html</link>
+      <description>P. Mestres, J. Cortés IEEE Transactions on Automatic Control 70 (12) (2025), 8016-8028</description>
+      <guid isPermaLink="false">11qu0nx</guid>
+    </item>
+    <item>
+      <title>Sensor-based distributionally robust control for safe robot navigation in dynamic environments</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp198.html</link>
+      <description>K. Long, Y. Yi, Z. Dai, S. Herbert, J. Cortés, N. Atanasov International Journal of Robotics Research 45 (2) (2026), 328-351</description>
+      <guid isPermaLink="false">1qto9li</guid>
+    </item>
+    <item>
+      <title>Online event-triggered switching for frequency control in power grids with variable inertia</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp197.html</link>
+      <description>J. Feng, W. Cui, J. Cortés, Y. Shi IEEE Transactions on Power Systems 40 (4) (2025), 3347-3360</description>
+      <guid isPermaLink="false">1kl1jwc</guid>
+    </item>
+    <item>
+      <title>Distributionally robust policy and Lyapunov-certificate learning</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp196.html</link>
+      <description>K. Long, J. Cortés, N. Atanasov IEEE Open Journal of Control Systems (3) (2024), 375-388</description>
+      <guid isPermaLink="false">18tl4tz</guid>
+    </item>
+    <item>
+      <title>Control of linear-threshold brain networks via reservoir computing</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp195.html</link>
+      <description>M. McCreesh, J. Cortés IEEE Open Journal of Control Systems 3 (2024), 325-341</description>
+      <guid isPermaLink="false">8n43fu</guid>
+    </item>
+    <item>
+      <title>Continuous approximations of projected dynamical systems via control barrier functions</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp194.html</link>
+      <description>G. Delimpaltadakis, J. Cortés, W. P. M. H. Heemels IEEE Transactions on Automatic Control 70 (1) (2025), 681-688</description>
+      <guid isPermaLink="false">wj7kf5</guid>
+    </item>
+    <item>
+      <title>Distributed safe navigation of multi-agent systems using control barrier function-based controllers</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp193.html</link>
+      <description>P. Mestres, C. Nieto-Granda, J. Cortés IEEE Robotics and Automation Letters 9 (7) (2024), 6760-6767</description>
+      <guid isPermaLink="false">1fccz2p</guid>
+    </item>
+    <item>
+      <title>Optimal power flow pursuit via feedback-based safe gradient flow</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp192.html</link>
+      <description>A. Colot, Y. Chen, B. Cornélusse, J. Cortés, E. Dall&#39;Anese IEEE Transactions on Control Systems Technology 33 (2) (2025), 658-670</description>
+      <guid isPermaLink="false">1mnx1ay</guid>
+    </item>
+    <item>
+      <title>The geometry behind invariance proximity: tight error bounds for Koopman-based approximations</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp191.html</link>
+      <description>M. Haseli, J. Cortés Asian Journal of Control, submitted</description>
+      <guid isPermaLink="false">ugc1dz</guid>
+    </item>
+    <item>
+      <title>Anytime solvers for variational inequalities: the (recursive) safe monotone flows</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp188.html</link>
+      <description>A. Allibhoy, J. Cortés Automatica 177 (2025), 112287</description>
+      <guid isPermaLink="false">ub3yx</guid>
+    </item>
+    <item>
+      <title>Feasibility analysis and regularity characterization of distributionally robust safe stabilizing controllers</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp187.html</link>
+      <description>P. Mestres, K. Long, N. Atanasov, J. Cortés IEEE Control Systems Letters 8 (2024), 91-96</description>
+      <guid isPermaLink="false">bszcmr</guid>
+    </item>
+    <item>
+      <title>Performance-barrier-based event-triggered boundary control of a class of reaction-diffusion PDEs</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp186.html</link>
+      <description>B. Rathnayake, M. Diagne, J. Cortés, M. Krstic Automatica 174 (2025), 112181</description>
+      <guid isPermaLink="false">i0l248</guid>
+    </item>
+    <item>
+      <title>Online regulation of dynamical systems to solutions of constrained optimization problems</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp184.html</link>
+      <description>Y. Chen, L. Cothren, J. Cortés, E. Dall&#39;Anese IEEE Control Systems Letters 7 (2023), 3789-3794</description>
+      <guid isPermaLink="false">153qpny</guid>
+    </item>
+    <item>
+      <title>Learning decentralized frequency controllers for energy storage systems</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp183.html</link>
+      <description>Z. Sun, Z. Yuan, C. Zhao, J. Cortés IEEE Control Systems Letters 7 (2023), 3459-3464</description>
+      <guid isPermaLink="false">ojcxy6</guid>
+    </item>
+    <item>
+      <title>Symmetry preservation in Hamiltonian systems: simulation and learning</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp182.html</link>
+      <description>M. Vaquero, J. Cortés, D. Martín de Diego Journal of Nonlinear Science (34) (2024), 115</description>
+      <guid isPermaLink="false">dvuys5</guid>
+    </item>
+    <item>
+      <title>Efficient reconstruction of neural mass dynamics modeled by linear-threshold networks</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp181.html</link>
+      <description>X. Wang, J. Cortés IEEE Transactions on Automatic Control 70 (5) (2025), 2843-2858</description>
+      <guid isPermaLink="false">130v51k</guid>
+    </item>
+    <item>
+      <title>Modeling nonlinear control systems via Koopman control family: universal forms and subspace invariance proximity</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp180.html</link>
+      <description>M. Haseli, J. Cortés Automatica 185 (2026), 112722</description>
+      <guid isPermaLink="false">1s0wx6r</guid>
+    </item>
+    <item>
+      <title>Data-driven distributed spectrum estimation for linear time-invariant systems</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp178.html</link>
+      <description>S. Liu, J. Cortés, S. Martínez IEEE Transactions on Control of Network Systems 12 (1) (2025), 1125-1136</description>
+      <guid isPermaLink="false">1ccssy3</guid>
+    </item>
+    <item>
+      <title>Continuity and boundedness of minimum-norm CBF-safe controllers</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp177.html</link>
+      <description>M. Alyaseen, N. Atanasov, J. Cortés IEEE Transactions on Automatic Control 70 (6) (2025), 4148-4154</description>
+      <guid isPermaLink="false">11o73kx</guid>
+    </item>
+    <item>
+      <title>Sufficient conditions for oscillations in competitive linear-threshold brain networks</title>
+      <link>http://terrano.ucsd.edu/jorge/publications/jp/jp176.html</link>
+      <description>M. McCreesh, T. Menara, J. Cortés IEEE Control Systems Letters 7 (2023), 2886-2891</description>
+      <guid isPermaLink="false">1txlaqy</guid>
+    </item>
+    <generator>html2rss V. 0.36.1 (scrapers: AutoSource::SemanticHtml (50))</generator>
     <ttl>360</ttl>
     <dc:date>2026-10-10T15:53:57Z</dc:date>
   </channel>
