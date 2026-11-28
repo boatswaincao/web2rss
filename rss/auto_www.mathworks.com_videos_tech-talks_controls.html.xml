@@ -9,11 +9,11 @@
     <link>https://www.mathworks.com/videos/tech-talks/controls.html</link>
     <description>Control systems are found everywhere, from cars and airplanes to hard drives and medical devices.</description>
     <language>en</language>
-    <pubDate>Fri, 27 Nov 2026 10:32:06 -0000</pubDate>
+    <pubDate>Fri, 27 Nov 2026 20:49:44 -0000</pubDate>
     <item>
       <title>Control Systems Video Series</title>
       <link>https://www.mathworks.com/videos/why-the-bode-plot-is-awesome-1781070392174.html</link>
-      <description>&lt;img src=&quot;https://www.mathworks.com/videos/tech-talks/controls/_jcr_content/mainParsys/band_copy_copy/mainParsys/columns_copy/7e9cd21f-4b8e-4ecb-a51f-de89fdc3af78/thumbnail.adapt.full.medium.jpg/1792392044687.jpg&quot; alt=&quot;Control Systems Video Series&quot; title=&quot;Control Systems Video Series&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;
+      <description>&lt;img src=&quot;https://www.mathworks.com/videos/tech-talks/controls/_jcr_content/mainParsys/band_copy_copy/mainParsys/columns_copy/7e9cd21f-4b8e-4ecb-a51f-de89fdc3af78/thumbnail.adapt.full.medium.jpg/1792392044934.jpg&quot; alt=&quot;Control Systems Video Series&quot; title=&quot;Control Systems Video Series&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer&quot; decoding=&quot;async&quot; crossorigin=&quot;anonymous&quot;&gt;
 
 Control systems are found everywhere, from cars and airplanes to hard drives and medical devices. They help ensure system performance, safety, and efficiency.
 Watch these tech talk videos to learn about the controls concepts essential for analyzing and designing feedback control systems. Videos cover a wide range of topics from PID control to reinforcement learning. Each video provides a strong foundation on a specific topic and includes links to additional resources (please see Related Resources below each video) allowing you to further deepen your understanding. Make sure to check back regularly for new videos to expand your knowledge and understanding of controls concepts.
@@ -65,7 +65,7 @@ Watch videos (5 videos)
 Panel Navigation
 Using Bode Plots
 Watch videos (5 videos)</description>
-      <guid isPermaLink="false">1o3m3u1</guid>
+      <guid isPermaLink="false">bvakv6</guid>
     </item>
     <item>
       <title>Watch other MATLAB Tech Talks</title>
@@ -149,6 +149,6 @@ Watch videos (5 videos)</description>
     </item>
     <generator>html2rss V. 0.36.1 (scrapers: AutoSource::SemanticHtml (17))</generator>
     <ttl>720</ttl>
-    <dc:date>2026-11-27T10:32:06Z</dc:date>
+    <dc:date>2026-11-27T20:49:44Z</dc:date>
   </channel>
 </rss>
